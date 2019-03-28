@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include<math.h>
 #include <assert.h>
-#include "testing pgm.c"
+#include "calculator.c"
 int main()
 {
     assert(operation('+',10,10)==20);
